@@ -6,3 +6,12 @@ google_maps_thief
 
      //////Код знаходиться в maps_thief/Form1.cs
 Кнопка button1_Click запускає chromedriver та переходить на сайт https://mapstyle.withgoogle.com/. За десяти секундну паузу потрібно вимкнути повзунок топонімів. Згодом функция  Deleter видалить усі елементи на сайті, крім карти. Після цього треба самому навестися на якусь точку, що стане віліком для button2_Click.
+
+![image](https://user-images.githubusercontent.com/125378481/219703131-0f070cca-4441-4805-a6be-507229743b40.png)
+![image](https://user-images.githubusercontent.com/125378481/219703252-e25c0c5d-b5a0-4e6b-8f02-14b1a625cc11.png)
+
+кнопка button2_Click рухає карту строго по горизонталі (вертикалі) на всю довжину дисплея, робить скріншот, повторюється багато разів. потім усі скріншоти з'єднуються у зображення з великим розширенням.
+
+![image](https://user-images.githubusercontent.com/125378481/219705390-e31cccda-6c5a-4493-aed9-e4e8afc3f7df.png)
+
+Відео роботи за посиланням https://drive.google.com/file/d/1Url8Br9scBHM0qM7A1iVFqhVs_hIoy5W/view?usp=sharing
