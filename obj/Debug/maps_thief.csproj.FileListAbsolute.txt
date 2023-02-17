@@ -1,0 +1,16 @@
+C:\projects\maps_thief\bin\Debug\maps_thief.exe
+C:\projects\maps_thief\bin\Debug\maps_thief.pdb
+C:\projects\maps_thief\bin\Debug\WebDriver.dll
+C:\projects\maps_thief\obj\Debug\maps_thief.Form1.resources
+C:\projects\maps_thief\obj\Debug\maps_thief.Properties.Resources.resources
+C:\projects\maps_thief\obj\Debug\maps_thief.csproj.GenerateResource.Cache
+C:\projects\maps_thief\obj\Debug\maps_thief.csproj.CoreCompileInputs.cache
+C:\projects\maps_thief\obj\Debug\maps_thief.exe
+C:\projects\maps_thief\obj\Debug\maps_thief.pdb
+C:\projects\maps_thief\obj\Debug\maps_thief.csproj.CopyComplete
+C:\projects\maps_thief\bin\Debug\maps_thief.exe.config
+C:\projects\maps_thief\obj\Debug\maps_thief.csproj.AssemblyReference.cache
+C:\projects\maps_thief\obj\Debug\maps_thief.csproj.SuggestedBindingRedirects.cache
+C:\projects\maps_thief\bin\Debug\selenium-manager\linux\selenium-manager
+C:\projects\maps_thief\bin\Debug\selenium-manager\macos\selenium-manager
+C:\projects\maps_thief\bin\Debug\selenium-manager\windows\selenium-manager.exe
